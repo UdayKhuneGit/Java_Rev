@@ -6,9 +6,8 @@ public class Inheritance implements Animal {
 	// interface la body dusrya class mdhe dyichi aste
 	// interface impliment krichi asel tr tithlya mrthod ikda bopdy dyavi lagte
 	
-			@Override
+			@Override  // thread run hotiye!!!
 			public void Run() {
-				// TODO Auto-generated method stub
 				System.out.println("Interface Method");
 			}
 
